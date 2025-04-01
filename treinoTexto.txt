@@ -1,5 +1,16 @@
 linha 1 da atividade
+<<<<<<< HEAD
+<<<<<<< HEAD
+(errei e enviei o terceiro commit para a branch dev ao invés de enviar para a atividade 1, irei salvar esse texto na atv1)
+=======
 (errei e enviei o terceiro commit para a branch dev ao invés de enviar para a atividade 1, irei salvar esse texto na dev)
 alteração no documento: linha 6
 alteração de documento: linha 27
 alteração no documento: linha 13
+>>>>>>> f938138acf672d8d71a6f17d0dcd967c8667f4bc
+=======
+(errei e enviei o terceiro commit para a branch dev ao invés de enviar para a atividade 1, irei salvar esse texto na dev)
+alteração no documento: linha 6
+alteração de documento: linha 27
+alteração no documento: linha 13
+>>>>>>> f938138acf672d8d71a6f17d0dcd967c8667f4bc
